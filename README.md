@@ -4,7 +4,7 @@ A simple particle collision simulation implemented in C++ using the raylib libra
 ## Overview
 This program simulates the movement and collision of particles within a confined space. Each particle has its own position, speed, and radius. The particles bounce off the walls and each other, reacting realistically to collisions.
 
-##Showcase
+## Showcase
 
 ![Main](https://github.com/luis0o2/ElasticParticleCollision/assets/59019460/544230f7-2def-4996-a915-bf00e603ad5c)
 
