@@ -15,6 +15,15 @@ Particle Centering: Press the E key to center all particles towards the center o
 Particle Collision: Particles bounce off each other and the walls of the window.
 Particle Spawn: Press the R key to spawn 50 particles randomly across the screen.
 Particle Deletion: Press the D key to delete all existing particles.
+
+## Centering Showcase
+
+![Centering](https://github.com/luis0o2/ElasticParticleCollision/assets/59019460/3bf52975-7470-4e2e-b645-717c798cac23)
+
+## 1K Particles Showcase
+
+
+
 ## Controls
 Add Particles: SPACE
 Center Particles: E
