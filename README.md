@@ -20,8 +20,6 @@ Particle Deletion: Press the D key to delete all existing particles.
 
 ![Centering](https://github.com/luis0o2/ElasticParticleCollision/assets/59019460/3bf52975-7470-4e2e-b645-717c798cac23)
 
-## 1K Particles Showcase
-
 
 
 ## Controls
